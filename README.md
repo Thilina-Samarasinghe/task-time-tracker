@@ -655,17 +655,61 @@ npx prisma migrate reset
 
 ---
 
-## 📝 License
+## 📸 Application Screenshots
 
-This project is licensed under the MIT License.
+### 🏠 Homepage - Landing Page
+<p align="center">
+  <img src="screenshots/homepage.png" alt="Homepage" width="700"/>
+</p>
+*Modern landing page with clear call-to-action buttons*
+
+---
+
+### 🔐 Authentication
+
+<div align="center">
+  <img src="screenshots/login.png" alt="Login Page" width="48%"/>
+  <img src="screenshots/register.png" alt="Register Page" width="48%"/>
+</div>
+<p align="center"><i>Secure login and registration pages with form validation</i></p>
+
+---
+
+### 📊 Dashboard - Overview
+<p align="center">
+  <img src="screenshots/dashboard.png" alt="Dashboard" width="700"/>
+</p>
+*Real-time productivity stats and recent tasks overview*
+
+---
+
+### ✅ Task Management
+<p align="center">
+  <img src="screenshots/task.png" alt="Task Page" width="700"/>
+</p>
+*Complete task CRUD operations with filtering and search*
+
+---
+
+### 📈 Analytics & Insights
+<p align="center">
+  <img src="screenshots/analytics.png" alt="Analytics" width="700"/>
+</p>
+*Visual charts showing productivity trends and time distribution*
+
+---
+
+### 👤 User Profile
+<p align="center">
+  <img src="screenshots/my-profile.png" alt="Profile" width="700"/>
+</p>
+*User profile management and settings*
 
 ---
 
 ## 👤 Author
 
-Built for ANKA Technologies Internship Assignment
-
-**Repository:** https://github.com/yourusername/task-time-tracker
+Thilina Samarasinghe
 
 ---
 
